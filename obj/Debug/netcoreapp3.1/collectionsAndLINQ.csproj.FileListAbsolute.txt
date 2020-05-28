@@ -1,0 +1,12 @@
+/Users/mo/workspace/Cohort39/csharp39/demo/collectionsAndLINQ/bin/Debug/netcoreapp3.1/collectionsAndLINQ.deps.json
+/Users/mo/workspace/Cohort39/csharp39/demo/collectionsAndLINQ/bin/Debug/netcoreapp3.1/collectionsAndLINQ.runtimeconfig.json
+/Users/mo/workspace/Cohort39/csharp39/demo/collectionsAndLINQ/bin/Debug/netcoreapp3.1/collectionsAndLINQ.runtimeconfig.dev.json
+/Users/mo/workspace/Cohort39/csharp39/demo/collectionsAndLINQ/bin/Debug/netcoreapp3.1/collectionsAndLINQ.dll
+/Users/mo/workspace/Cohort39/csharp39/demo/collectionsAndLINQ/bin/Debug/netcoreapp3.1/collectionsAndLINQ.pdb
+/Users/mo/workspace/Cohort39/csharp39/demo/collectionsAndLINQ/obj/Debug/netcoreapp3.1/collectionsAndLINQ.csprojAssemblyReference.cache
+/Users/mo/workspace/Cohort39/csharp39/demo/collectionsAndLINQ/obj/Debug/netcoreapp3.1/collectionsAndLINQ.csproj.CoreCompileInputs.cache
+/Users/mo/workspace/Cohort39/csharp39/demo/collectionsAndLINQ/obj/Debug/netcoreapp3.1/collectionsAndLINQ.AssemblyInfoInputs.cache
+/Users/mo/workspace/Cohort39/csharp39/demo/collectionsAndLINQ/obj/Debug/netcoreapp3.1/collectionsAndLINQ.AssemblyInfo.cs
+/Users/mo/workspace/Cohort39/csharp39/demo/collectionsAndLINQ/obj/Debug/netcoreapp3.1/collectionsAndLINQ.dll
+/Users/mo/workspace/Cohort39/csharp39/demo/collectionsAndLINQ/obj/Debug/netcoreapp3.1/collectionsAndLINQ.pdb
+/Users/mo/workspace/Cohort39/csharp39/demo/collectionsAndLINQ/obj/Debug/netcoreapp3.1/collectionsAndLINQ.genruntimeconfig.cache
